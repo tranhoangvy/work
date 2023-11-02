@@ -7,3 +7,4 @@ print("hello thanh A")
 print("hello thanh A dep trai. bạn có nguoi yeu chưa")
 #commit 2
 print("chao ban cho minh lam quen hihi")
+print("hello thanh A dep trai. rất vui khi gặp bạn và được làm quen với bạn hihi")
